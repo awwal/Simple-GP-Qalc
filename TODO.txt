@@ -1,0 +1,6 @@
+Change from Dialog to QWindow
+Make pdf output better
+load from text,  check for errors better
+figure out the problem with loading when sorting of table widget is on
+create a summary of result with qwt, like statistics.
+create a deb installer for ubuntu linux
